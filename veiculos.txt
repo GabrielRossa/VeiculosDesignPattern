@@ -1,0 +1,6 @@
+*LISTA DE CARROS*
+Koenigsegg,Agera RS,2015,2500000.0,2
+Koenigsegg,Agera RS,2015,2500000.0,2
+*LISTA DE MOTOS*
+Kawasaki,Ninja,2023,56000.0,1000
+Kawasaki,Ninja,2023,56000.0,1000
